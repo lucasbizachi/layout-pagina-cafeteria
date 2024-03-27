@@ -15,3 +15,4 @@ Estrutura do Projeto
 Licença
 Este projeto está licenciado sob a Licença MIT.
 
+[Layout Página Cafeteria](https://lucasbizachi.github.io/layout-pagina-cafeteria/)
