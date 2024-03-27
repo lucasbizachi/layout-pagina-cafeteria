@@ -8,8 +8,10 @@ Tecnologias Utilizadas
 * CSS
 
 Estrutura do Projeto
-*O diretório assets contém subdiretórios para imagens e estilos CSS.
-*O arquivo index.html é a página principal do projeto.
-*O arquivo README.md fornece informações sobre o projeto.
+* O diretório assets contém subdiretórios para imagens e estilos CSS.
+* O arquivo index.html é a página principal do projeto.
+* O arquivo README.md fornece informações sobre o projeto.
 
+Licença
+Este projeto está licenciado sob a Licença MIT.
 
